@@ -2,7 +2,7 @@ import copy, random
 
 def print_board(s,board):
 
-"""This function have been defined to display board, please dont alter"""
+#This function have been defined to display board, please dont alter
 	#find out if you are printing the computer or user board
 	player = "Computer"
 	if s == "u":
